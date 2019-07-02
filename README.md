@@ -1,5 +1,5 @@
 # GitHub Enterprise API Notes
-Personal notes on using the GitHub Enterprise API
+Personal notes on basic usage of the GitHub Enterprise API
 
 # Using Chrome browser
 All API endpoints -- except Management Console API endpoints -- are prefixed with the following URL:
