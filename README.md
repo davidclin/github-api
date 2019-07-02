@@ -1,5 +1,5 @@
-# github-api
-Personal notes on using the GitHub API
+# GitHub API Notes
+Personal notes on using the GitHub API (with bent towards GitHub Enterprise)
 
 # Examples using Chrome browser
 All API endpoints -- except Management Console API endpoints -- are prefixed with the following URL:
