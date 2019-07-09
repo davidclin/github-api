@@ -37,9 +37,8 @@ curl -H "Authorization: [token|bearer] [OAuth_Token|ACCESS_TOKEN]" https://hotna
 # Getting list of supported API endpoints
 To get a list of all API endpoints, simply pass the https://[hostname]/api/v3 API call.
 
-Example:
 <details>
-<summary></summary>
+<summary>Example</summary>
   
 <pre>  
 $ curl -H "Authorization: token 553daa92ecbd764b5ef1ec05455f5fc02968b6c9" https://github.awsinternal.tri.global/api/v3
