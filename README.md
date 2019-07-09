@@ -39,7 +39,7 @@ To get a list of all API endpoints, simply pass the https://[hostname]/api/v3 AP
 
 Example:
 <details>
-<summary>
+<summary></summary>
   
 <pre>  
 $ curl -H "Authorization: token 553daa92ecbd764b5ef1ec05455f5fc02968b6c9" https://github.awsinternal.tri.global/api/v3
@@ -77,7 +77,6 @@ $ curl -H "Authorization: token 553daa92ecbd764b5ef1ec05455f5fc02968b6c9" https:
   "user_search_url": "https://github.awsinternal.tri.global/api/v3/search/users?q={query}{&page,per_page,sort,order}"
 }
 </pre>
-</summary>
 </details>
 
 
