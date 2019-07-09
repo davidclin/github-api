@@ -35,7 +35,9 @@ curl -H "Authorization: [token|bearer] [OAuth_Token|ACCESS_TOKEN]" https://hotna
 <p>
   
 # Getting list of supported API endpoints
-To get a list of all API endpoints, simply pass the https://[hostname]/api/v3 API call.
+You can issue a GET request to the root endpoint to get all the endpoint categories that the REST API v3 supports.
+
+For example, simply pass the https://[hostname]/api/v3.
 
 <details>
 <summary>Example</summary>
