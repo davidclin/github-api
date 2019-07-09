@@ -29,7 +29,7 @@ Every Enterprise API endpoint is only accessible to GitHub Enterprise site admin
 <pre>
 Example using the organizations API:
 
-curl -H "Authorization: bearer [ACCESS_TOKEN]" https://hotname/api/v3/organizations
+curl -H "Authorization: [token|bearer] [OAuth_Token|ACCESS_TOKEN]" https://hotname/api/v3/organizations
 </pre>
 
 <p>
