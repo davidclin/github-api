@@ -1,6 +1,13 @@
 # GitHub Enterprise API Notes
 Personal notes on basic usage of the GitHub Enterprise API
 
+<p>
+
+# GitHub API Documentation
+[REST API v3](https://developer.github.com/v3/)
+
+<p>
+
 # Using Chrome browser
 All API endpoints -- except Management Console API endpoints -- are prefixed with the following URL:
 
@@ -16,12 +23,17 @@ Specifically, you can authenticate yourself with:<br>
 
 Every Enterprise API endpoint is only accessible to GitHub Enterprise site administrators, with the exception of the Management Console API, which is only accessible via the Management Console password.
 
+<p>
 
 # Using curl
 <pre>
+Example using the organizations API:
+
 curl -H "Authorization: bearer [ACCESS_TOKEN]" https://hotname/api/v3/organizations
 </pre>
 
+<p>
+  
 # Resources
 [REST API v3 Documentation](https://developer.github.com/v3/)
 <br>
