@@ -11,7 +11,7 @@ https://hostname/api/v3
 GitHub Enterprise API endpoints accept the same authentication methods as the GitHub API.<br>
 Specifically, you can authenticate yourself with:<br>
 
-1) Auth tokens (which can be created using the Authorization API or<br>
+1) Auth tokens (which can be created using the Authorization API) or<br>
 2) Basic authentication<br>
 
 Every Enterprise API endpoint is only accessible to GitHub Enterprise site administrators, with the exception of the Management Console API, which is only accessible via the Management Console password.
