@@ -80,6 +80,8 @@ $ curl -H "Authorization: token 553daa92ecbd764b5ef1ec05455f5fc02968b6c9" https:
 </pre>
 </details>
 
+# Search API
+[Documentation and examples](https://developer.github.com/v3/search/#search-repositories)
 
 # Resources
 [REST API v3 Documentation](https://developer.github.com/v3/)
